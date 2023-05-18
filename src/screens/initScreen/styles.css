@@ -12,12 +12,12 @@ section{
     border-radius: 1rem;
     /* opacity: 0.5; */
 
-    background: rgba( 255, 255, 255, 0.35 );
+    background: rgba(255, 255, 255, 0.253);
     /*box-shadow: 0 8px 32px 0 rgba(34, 135, 31, 0.37);*/
     backdrop-filter: blur( 13.5px );
     -webkit-backdrop-filter: blur( 13.5px );
     /* border-radius: 10px; */
-    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    border: 1px solid rgba(255, 255, 255, 0.644);
 
     margin-bottom: 15rem;
 }
